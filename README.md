@@ -75,6 +75,9 @@ Password.
 
 ## INSTALLATION & USAGE
 
+1. **Clone Repo**
+   `git clone https://github.com/LeonCzech/phillps-tv-controller.git`
+
 1. **Install Dependencies:**
    `pip install requests`
 
